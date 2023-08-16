@@ -1,0 +1,21 @@
+﻿
+
+h1 {
+    color: aqua;
+}
+
+div {
+    color: darkblue;
+    height: 73px;
+    width: 100%;
+    font-size: 31px;
+    font-family: cursive;
+}
+
+.Common_aligen{
+    text-align:center
+}
+
+.backgroundColor {
+    background-color:aliceblue;
+}
